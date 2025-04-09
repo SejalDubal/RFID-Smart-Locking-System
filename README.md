@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e314544f-c45e-455d-b20a-aa5817cd924c)# RFID-Based Smart Door Lock System🔒
+# RFID-Based Smart Door Lock System🔒
 
 This project is a **Smart Door Lock System** powered by **RFID technology**, built using Arduino. It enables secure access by scanning RFID cards and automatically controlling a servo motor to lock/unlock a door. The system uses an LCD to provide real-time feedback, and features a lockout mechanism after multiple failed access attempts.
 
