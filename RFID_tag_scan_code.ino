@@ -1,7 +1,3 @@
-/*RFID tag scan code
- * https://srituhobby.com
- */
- 
 #include <LiquidCrystal_I2C.h>
 #include <SPI.h>
 #include <MFRC522.h>
