@@ -1,4 +1,4 @@
-# RFID-Based Smart Door Lock System🔒
+![image](https://github.com/user-attachments/assets/e314544f-c45e-455d-b20a-aa5817cd924c)# RFID-Based Smart Door Lock System🔒
 
 This project is a **Smart Door Lock System** powered by **RFID technology**, built using Arduino. It enables secure access by scanning RFID cards and automatically controlling a servo motor to lock/unlock a door. The system uses an LCD to provide real-time feedback, and features a lockout mechanism after multiple failed access attempts.
 
@@ -45,6 +45,11 @@ Make sure to install the following Arduino libraries before uploading the code:
 
 5. **SPI**  
 Required for communication with the RFID module.
+
+---
+### Pin Diagram: 
+
+![Screenshot 2025-04-09 162657](https://github.com/user-attachments/assets/fe2f6b23-52f8-487e-89c7-72002d31466d)
 
 ---
 
