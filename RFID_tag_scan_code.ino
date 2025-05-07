@@ -1,7 +1,6 @@
 #include <LiquidCrystal_I2C.h>
 #include <SPI.h>
 #include <MFRC522.h>
-
 #define RST_PIN 9
 #define SS_PIN  10
 byte readCard[4];
